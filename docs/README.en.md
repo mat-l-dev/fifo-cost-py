@@ -113,4 +113,4 @@ Build distributions with `uv build`. No CI workflows or remote integrations are 
 
 ## License
 
-A license has not yet been selected by the rights holder. This release does not include a license grant for use or redistribution.
+Copyright 2026 mat-l-dev. Licensed under the [Apache License 2.0](../LICENSE). See the full license text for its permissions, conditions, and limitations.

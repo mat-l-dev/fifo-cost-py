@@ -130,4 +130,4 @@ No se incluyen workflows de CI ni integraciones remotas. La versión inicial se 
 
 ## Licencia
 
-La licencia está pendiente de elección por el titular. Esta versión no incluye una concesión de licencia de uso o redistribución.
+Copyright 2026 mat-l-dev. Distribuido bajo la licencia [Apache-2.0](LICENSE). Consulta el texto completo de la licencia para sus permisos, condiciones y limitaciones.
