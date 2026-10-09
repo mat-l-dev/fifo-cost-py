@@ -1,0 +1,7 @@
+{
+  "events": [
+    {"type": "receipt", "event_id": "R1", "sequence": 1, "item_id": "SKU-001", "currency": "PEN", "quantity": 10, "unit_cost_minor": 1250},
+    {"type": "receipt", "event_id": "R2", "sequence": 2, "item_id": "SKU-001", "currency": "PEN", "quantity": 5, "unit_cost_minor": 1400},
+    {"type": "issue", "event_id": "I1", "sequence": 3, "item_id": "SKU-001", "currency": "PEN", "quantity": 12}
+  ]
+}
